@@ -1,4 +1,4 @@
-Part 1: How to use Webstorm
+#Part 1: How to use Webstorm
 Go to webstorm website: https://www.jetbrains.com/community/education/#students
 Go to Open Source and click “apply”
 Fill out the form and connect to github repository
