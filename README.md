@@ -1,6 +1,9 @@
-#Part 1: How to use Webstorm
+Part 1: How to use Webstorm
+
 Go to webstorm website: https://www.jetbrains.com/community/education/#students
+
 Go to Open Source and click “apply”
+
 Fill out the form and connect to github repository
 Part 2: Glossary
 Branch: Used to develop different parts of a project without affecting other parts.
